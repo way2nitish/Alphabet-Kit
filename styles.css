@@ -1,0 +1,161 @@
+body {
+  text-align: center;
+  background-image: url("images/try.jpg");
+  background-size: cover;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #000000;
+  font-family: 'Rowdies', cursive;
+  text-shadow: 3px 0 #e23e57;
+}
+
+.about {
+  font-size: 2.5rem;
+  font-family: 'Shadows Into Light Two', cursive;
+  color: #f0a500;
+  font-weight: bold;
+}
+
+.press {
+  color: #000000;
+  font-weight: bold;
+}
+
+footer {
+  color: #000000;
+  font-size: 2rem;
+  font-family: 'Shadows Into Light Two', cursive;
+  font-weight: bolder;
+
+}
+
+.a {
+  background-image: url("images/a.jfif");
+}
+
+.b {
+  background-image: url("images/b.jfif");
+}
+
+.c {
+  background-image: url("images/c.jfif");
+}
+
+.d {
+  background-image: url("images/d.jfif");
+}
+
+.e {
+  background-image: url("images/e.jfif");
+}
+
+.f {
+  background-image: url("images/f.jfif");
+}
+
+.g {
+  background-image: url("images/g.jfif");
+}
+
+.h {
+  background-image: url("images/h.jpg");
+}
+
+.i {
+  background-image: url("images/i.jpg");
+}
+
+.j {
+  background-image: url("images/j.jfif");
+}
+
+.k {
+  background-image: url("images/k.jfif");
+}
+
+.l {
+  background-image: url("images/l.jfif");
+}
+
+.m {
+  background-image: url("images/m.jfif");
+}
+
+.n {
+  background-image: url("images/n.jfif");
+}
+
+.o {
+  background-image: url("images/o.jfif");
+}
+
+.p {
+  background-image: url("images/p.jfif");
+}
+
+.q {
+  background-image: url("images/q.jfif");
+}
+
+.r {
+  background-image: url("images/r.jfif");
+}
+
+.s {
+  background-image: url("images/s.jfif");
+}
+
+.t {
+  background-image: url("images/t.jfif");
+}
+
+.u {
+  background-image: url("images/u.jfif");
+}
+
+.v {
+  background-image: url("images/v.jpg");
+}
+
+.w {
+  background-image: url("images/w.jfif");
+}
+
+.x {
+  background-image: url("images/x.jfif");
+}
+
+.y {
+  background-image: url("images/y.jfif");
+}
+
+.z {
+  background-image: url("images/z.jfif");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.alpha {
+  outline: none;
+  border: 5px solid #184d47;
+  font-size: 6rem;
+  font-family: 'Bungee', cursive;
+  line-height: 1;
+  color: #000000;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 30px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 20px;
+}
